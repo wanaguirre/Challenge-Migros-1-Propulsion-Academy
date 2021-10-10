@@ -45,4 +45,4 @@ In this project, we familiarized ourselves with data gathering tools (APIs and W
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+![conclusions](https://github.com/wanaguirre/Challenge-Migros-1-Propulsion-Academy/blob/18cc8a94576f3fc882c5333587bd4b9b925e8993/Workbooks/Visualization/images/conclusions.jpg)
