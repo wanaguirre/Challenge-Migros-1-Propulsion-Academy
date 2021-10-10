@@ -1,4 +1,4 @@
-![search_iterations](Workbooks/Visualization/images/search_iterations.jpg)
+![search_iterations](https://github.com/wanaguirre/Challenge-Migros-1-Propulsion-Academy/blob/04cfb5a66a6b3eb3da6c3f4c61991ba5666047a6/Workbooks/Visualization/images/search_iterations.jpg)
 
 ![population_density](https://github.com/wanaguirre/Challenge-Migros-1-Propulsion-Academy/blob/b1ae5e06714191cdfac93f92055c061ae841f105/Workbooks/Visualization/images/population_density.jpg)
 
