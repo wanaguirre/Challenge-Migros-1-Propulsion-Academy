@@ -16,4 +16,4 @@
 
 ![Coefﬁcient-adjusted_4]()
 
-![conclusions](Workbooks/Visualization/images/conclusions.jpg)
+![conclusions](https://github.com/wanaguirre/Challenge-Migros-1-Propulsion-Academy/blob/18cc8a94576f3fc882c5333587bd4b9b925e8993/Workbooks/Visualization/images/conclusions.jpg)
