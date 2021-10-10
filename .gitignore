@@ -19,6 +19,7 @@ lib64/
 parts/
 sdist/
 var/
+htmls/
 data_raw/
 CSV_data_challengue/
 *.egg-info/
