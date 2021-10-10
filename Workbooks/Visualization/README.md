@@ -1,6 +1,6 @@
 ![search_iterations](Workbooks/Visualization/images/search_iterations.jpg)
 
-![populaion_density](Workbooks/Visualization/images/populaion_density.jpg)
+![populaion_density]()
 
 ![transportation quality](https://github.com/wanaguirre/Challenge-Migros-1-Propulsion-Academy/blob/52dcef3c1531e339de29330a18bf5666b49527f7/Workbooks/Visualization/images/transportation%20quality.jpg)
 
