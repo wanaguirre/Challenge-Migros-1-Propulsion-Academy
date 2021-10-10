@@ -25,6 +25,7 @@ CSV_data_challengue/
 *.egg
 *.json
 *.pptx
+*.docx
 
 *.pptx
 # PyInstaller
