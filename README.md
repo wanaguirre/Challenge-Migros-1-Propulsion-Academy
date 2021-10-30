@@ -1,4 +1,4 @@
-Migros-Store-Location-Challenge
+Supermarket_best_location
 ==============================
 
 Data Challengue #1
